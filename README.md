@@ -1,3 +1,3 @@
 # easyrsa
 
-Simples rsa lib for early developer
+Simple rsa lib for early developer
